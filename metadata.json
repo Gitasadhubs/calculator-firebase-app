@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Firebase Calculator",
+  "description": "A sleek, modern calculator application built with React, TypeScript, and Tailwind CSS. This app is designed with a GitHub Actions workflow for easy deployment to Firebase Hosting.",
+  "requestFramePermissions": []
+}
